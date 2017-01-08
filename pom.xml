@@ -36,7 +36,7 @@
                 <version>4.0.3</version>
                 <configuration>
                         <driver>com.mysql.jdbc.Driver</driver>
-                        <url>jdbc:mysql://<url>jdbc:mysql://localhost:3306/scarlet</url>:3306/scarlet</url>
+                        /<url>jdbc:mysql://localhost:3306/scarlet</url>
                 </configuration>
 
             </plugin>
